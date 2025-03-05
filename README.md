@@ -1,5 +1,5 @@
 # lvm-size-manager
 
 Choose your language:
-[Español](README_es)
-[English](README_en)
+[Español](README_es.md)
+[English](README_en.md)
