@@ -1,3 +1,5 @@
+Este script escrito en bash hace que sea más fácil cambiar el tamaño de tus volúmenes lógicos.
+
 ## 📌 ➖ Reducir Volúmen Lógico (LV)
 
 Primero hay que **reducir el sistema de archivos** y luego el *LV*:
