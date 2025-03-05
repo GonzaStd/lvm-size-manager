@@ -1,3 +1,5 @@
+This script write in bash makes easier to change the size of your logical volumes.
+
 ## 📌 ➖ Reduce Logical Volume (LV)
 
 First you have to **shrink the file system** and then the *LV*:
